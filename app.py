@@ -15,6 +15,7 @@ def divide(a, b):
         raise ValueError("Cannot divide by zero")
     return a / b
 
+
 if __name__ == "__main__":
     result1 = add(4, 5)
     result2 = sub(10, 3)
